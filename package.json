@@ -1,7 +1,7 @@
 {
-  "name": "cms",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@darkrenga/gulp-boilerplate",
+  "version": "0.1.0",
+  "description": "Super simple boiler plate for gulp",
   "main": "index.js",
   "scripts": {
     "dev": "gulp",
@@ -13,8 +13,8 @@
   },
   "bugs": "https://github.com/Darkrenga/GulpIntro/tree/master/issues",
   "homepage": "https://github.com/Darkrenga/GulpIntro/tree/master#readme",
-  "keywords": [],
-  "author": "",
+  "keywords": ["gulp", "sass", "pug", "imagemin", "babel", "boilerplate"],
+  "author": "Daniel Jensen  <dpj1@outlook.dk>",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.0",
